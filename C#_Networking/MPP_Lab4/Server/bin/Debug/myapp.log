@@ -1,0 +1,160 @@
+2020-04-06 21:25:34,991 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:25:35,033 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:25:35,033 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:26:37,733 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:26:41,649 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:27:29,448 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:27:29,468 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:27:29,469 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:27:49,920 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:27:50,340 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:30:31,679 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:30:31,693 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:30:31,693 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:31:21,958 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:31:22,281 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:32:57,131 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:32:57,147 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:32:57,147 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:33:22,192 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:33:22,453 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:35:26,931 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:35:26,949 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:35:26,950 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:35:48,249 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:35:48,501 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:38:10,531 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:38:10,545 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:38:10,546 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:38:32,742 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:38:32,995 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:43:00,218 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:43:00,248 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:43:00,248 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:43:15,389 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:43:15,672 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:44:20,834 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:44:20,861 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:44:20,862 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:44:37,042 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:44:37,332 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:45:38,527 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:45:38,543 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:45:38,543 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:45:56,571 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:45:56,818 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:49:18,208 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:49:18,234 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:49:18,235 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:49:39,550 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:49:40,041 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:50:09,949 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:50:10,002 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:50:10,004 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 21:50:28,043 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 21:50:28,646 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:51:37,104 [11] INFO Persistence.RepositoryUser - Cautare user cu username mihai
+2020-04-06 21:51:37,106 [11] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 21:52:42,442 [3] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-06 21:52:42,444 [3] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 5
+2020-04-06 21:52:42,613 [3] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-06 21:52:42,614 [3] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-06 21:52:43,617 [3] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 3
+2020-04-06 21:52:43,618 [3] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-06 21:52:44,627 [3] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-06 21:52:44,682 [3] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-06 21:53:19,352 [3] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-06 21:53:19,352 [3] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 5
+2020-04-06 21:53:19,389 [3] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-06 21:53:19,397 [3] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-06 21:53:20,405 [3] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 3
+2020-04-06 21:53:20,407 [3] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-06 21:53:21,424 [3] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-06 21:53:21,425 [3] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-06 21:59:57,451 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 21:59:57,480 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 21:59:57,481 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 22:00:24,680 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 22:00:25,040 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 22:00:37,459 [10] INFO Persistence.RepositoryUser - Cautare user cu username mihai
+2020-04-06 22:00:37,460 [10] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 22:00:57,362 [3] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-06 22:00:57,364 [3] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 5
+2020-04-06 22:00:57,369 [3] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-06 22:00:57,370 [3] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-06 22:00:58,375 [3] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 3
+2020-04-06 22:00:58,376 [3] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-06 22:00:59,383 [3] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-06 22:00:59,951 [3] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-06 22:01:33,685 [10] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-06 22:01:33,686 [10] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 5
+2020-04-06 22:01:33,689 [10] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-06 22:01:33,689 [10] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-06 22:01:34,695 [10] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 2
+2020-04-06 22:01:34,696 [10] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-06 22:01:35,701 [10] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-06 22:01:35,828 [10] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-06 22:05:43,632 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 22:05:43,646 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 22:05:43,646 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 22:06:02,564 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 22:06:02,989 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 22:06:17,157 [12] INFO Persistence.RepositoryUser - Cautare user cu username nicoleta
+2020-04-06 22:06:17,157 [12] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 22:07:16,863 [3] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-06 22:07:16,863 [3] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 9
+2020-04-06 22:07:16,863 [3] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-06 22:07:16,863 [3] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-06 22:07:17,884 [3] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 4
+2020-04-06 22:07:17,884 [3] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-06 22:07:18,896 [3] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-06 22:07:18,982 [3] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-06 22:07:50,074 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 22:07:50,092 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 22:07:50,092 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 22:08:04,297 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 22:08:04,782 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-06 22:09:45,789 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-06 22:09:45,813 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-06 22:09:45,814 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-06 22:10:03,709 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-06 22:10:04,206 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-07 09:45:51,959 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-07 09:45:51,989 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-07 09:45:51,990 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-07 09:46:15,103 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-07 09:46:15,821 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-07 09:46:33,811 [3] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-07 09:46:33,811 [3] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 9
+2020-04-07 09:46:33,811 [3] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-07 09:46:33,811 [3] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-07 09:46:34,826 [3] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 4
+2020-04-07 09:46:34,826 [3] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-07 09:46:35,842 [3] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-07 09:46:35,967 [3] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-07 10:06:08,937 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-07 10:06:08,968 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-07 10:06:08,976 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-07 10:06:39,678 [1] INFO Persistence.RepositoryExcursie - Creare Repository Excursie
+2020-04-07 10:06:39,716 [1] INFO Persistence.RepositoryRezervare - Creare Repository Rezervare
+2020-04-07 10:06:39,721 [1] INFO Persistence.RepositoryUser - Creare RepoUseri
+2020-04-07 10:07:01,236 [3] INFO Persistence.RepositoryUser - Cautare user cu username patricia
+2020-04-07 10:07:01,632 [3] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-07 10:07:11,380 [11] INFO Persistence.RepositoryUser - Cautare user cu username mihai
+2020-04-07 10:07:11,380 [11] INFO Persistence.RepositoryUser - Am gasit user cu username-ul dat
+2020-04-07 10:07:30,270 [11] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-07 10:07:30,271 [11] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 9
+2020-04-07 10:07:30,273 [11] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-07 10:07:30,273 [11] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-07 10:07:31,276 [11] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 2
+2020-04-07 10:07:31,276 [11] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-07 10:07:32,280 [11] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-07 10:07:32,355 [11] INFO Persistence.RepositoryExcursie - Excursie modificata
+2020-04-07 10:07:51,933 [3] INFO Persistence.RepositoryRezervare - Adaugare rezervare
+2020-04-07 10:07:51,933 [3] INFO Persistence.RepositoryRezervare - Cautare excursie cu id 9
+2020-04-07 10:07:51,934 [3] INFO Persistence.RepositoryRezervare - Am gasit rezervare cu id-ul dat
+2020-04-07 10:07:51,934 [3] INFO Persistence.RepositoryRezervare - Exista deja Rezervare cu acest id
+2020-04-07 10:07:52,936 [3] INFO Persistence.RepositoryExcursie - Cautare excursie cu id 4
+2020-04-07 10:07:52,936 [3] INFO Persistence.RepositoryExcursie - Am gasit excursie cu id-ul dat
+2020-04-07 10:07:53,940 [3] INFO Persistence.RepositoryExcursie - Update excursie
+2020-04-07 10:07:54,075 [3] INFO Persistence.RepositoryExcursie - Excursie modificata
